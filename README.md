@@ -1,34 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Arjun%20Krishnamurthy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Akash%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20Systems%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20DevOps%20Engineer&descAlignY=60&descSize=16" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+intelligent+systems+at+scale.;Architecting+the+future+of+AI+infrastructure.;Turning+research+into+production-grade+software.;Open+source+contributor+%7C+Systems+thinker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+reliable+infrastructure+from+the+ground+up.;Linux+%7C+Cloud+%7C+Automation+%7C+Networking.;99.9%25+uptime+is+not+a+goal+%E2%80%94+it%27s+a+standard.;Automating+everything+that+can+be+automated.)](https://git.io/typing-svg)
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&logoColor=white)
-![IIT](https://img.shields.io/badge/IIT-Bombay-7C3AED?style=flat-square&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-9.2%2F10-8B5CF6?style=flat-square&logoColor=white)
+![B.E. CSE](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&logoColor=white)
+![Amrita](https://img.shields.io/badge/Amrita%20College%20of%20Engineering-CGPA%3A%207.6%2F10-7C3AED?style=flat-square&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2021--2025-8B5CF6?style=flat-square&logoColor=white)
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-4C1D95?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Tamil%20Nadu%2C%20India-4C1D95?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Cloud%20%2F%20DevOps%20Roles-10B981?style=flat-square&logoColor=white)
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunkrishnamurthy.dev-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunkrishnamurthy.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunkrishnamurthy)
-[![Email](https://img.shields.io/badge/Email-arjun%40dev.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun@dev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunkrishnamurthy)
+[![GitHub](https://img.shields.io/badge/GitHub-Akash09042004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash09042004)
+[![Email](https://img.shields.io/badge/Email-akash.n.officialid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.n.officialid@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209342208903-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919342208903)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arjunkrishnamurthy&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/arjunkrishnamurthy?style=flat-square&color=6D28D9&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/arjunkrishnamurthy?style=flat-square&color=8B5CF6&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Akash09042004&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Akash09042004?style=flat-square&color=6D28D9&label=Followers&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Akash09042004?style=flat-square&color=8B5CF6&label=Stars&logo=github)
 
 </div>
 
@@ -36,24 +35,24 @@
 
 ## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkrishnamurthy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash09042004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
 
-I am a **Senior Software Engineer** with 6+ years of experience architecting and shipping production systems that operate at global scale. My work sits at the intersection of **AI/ML engineering**, **distributed systems**, and **full-stack product development**.
+I am a **Linux Systems Engineer** and **Cloud Infrastructure Engineer** with hands-on production experience managing critical IT environments in high-availability, zero-downtime settings.
 
-I specialize in transforming research-stage machine learning into robust, latency-sensitive production pipelines — bridging the gap between data science and platform engineering. I have led teams at post-Series B startups and contributed to infrastructure that serves hundreds of millions of requests daily.
+Currently at **Karpagam Hospital, Coimbatore**, I maintain 150+ workstations, enforce network security policies, and ensure **99.9% uptime** for life-critical hospital systems — an environment where infrastructure failure is not an option.
 
-My engineering philosophy is grounded in **systems thinking**, **rigorous code review culture**, and treating observability as a first-class concern. I believe the most durable software is simple, composable, and rigorously tested.
+My foundation in **Linux administration**, **network troubleshooting**, and **Bash automation** is paired with growing cloud expertise across **AWS (EC2, S3)**, CI/CD pipelines, and real-time data infrastructure. I am actively building toward a dedicated **Cloud / DevOps Engineering** role where I can apply infrastructure automation, cloud-native tooling, and system reliability engineering at scale.
 
-Outside of core engineering, I actively contribute to open source, mentor junior engineers, and write technical content on distributed ML systems and LLM infrastructure.
+I believe reliable infrastructure is not an accident — it is the product of disciplined automation, proactive monitoring, and rigorous documentation.
 
 <br/>
 
 **◦ Open To**
 
 ```
-▸ Senior / Staff Software Engineer roles        ▸ AI/ML Platform Engineering
-▸ Technical Lead & Architect positions          ▸ Open Source Collaboration
-▸ Research Engineering (LLM / GenAI)            ▸ Advisory & Consulting engagements
+▸ Cloud Engineer / AWS Cloud Engineer roles       ▸ Linux System Administrator (Senior)
+▸ DevOps Engineer / Site Reliability Engineer     ▸ Infrastructure / Platform Engineer
+▸ Network Engineer (Cloud-focused)                ▸ Remote / Hybrid opportunities across India
 ```
 
 ---
@@ -62,40 +61,40 @@ Outside of core engineering, I actively contribute to open source, mentor junior
 
 <div align="center">
 
-**Languages**
+**Languages & Scripting**
 
-[![Skills](https://skillicons.dev/icons?i=python,typescript,go,rust,java,cpp,bash,scala&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,python,mysql&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Cloud & Infrastructure**
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql,redux,vite,figma,storybook&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,linux,ubuntu,github,git&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+**Web Services & Databases**
 
-[![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,django,postgres,redis,mongodb,kafka,elasticsearch&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nginx,apache,mysql,react&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+**DevOps & Monitoring**
 
-[![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,prometheus,grafana&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=githubactions,docker,grafana&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## ◈ AI / ML Expertise
+## ◈ Infrastructure & Cloud Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Large Language Models** | ████████████ Expert | Fine-tuning, RLHF, RAG pipelines, prompt engineering at scale |
-| **MLOps & Model Serving** | ████████████ Expert | Triton, TorchServe, BentoML, A/B model rollouts, shadow mode |
-| **Deep Learning** | ███████████░ Advanced | PyTorch, JAX, custom training loops, distributed training (DDP/FSDP) |
-| **Computer Vision** | ██████████░░ Advanced | Object detection, segmentation, multimodal architectures |
-| **Recommendation Systems** | ██████████░░ Advanced | Two-tower models, feature stores, real-time inference, ANN indexing |
-| **NLP & Text Analytics** | ███████████░ Advanced | Transformers, embedding models, semantic search, entity extraction |
-| **Data Engineering** | ████████████ Expert | Spark, Flink, dbt, feature pipelines, data lake architecture |
-| **Reinforcement Learning** | ████████░░░░ Proficient | PPO, DQN, reward modelling, simulation environments |
+| **Linux Administration** | ████████████ Expert | Ubuntu, CentOS — user management, permissions, patching, hardening |
+| **Network Engineering** | ███████████░ Advanced | LAN/WAN, TCP/IP, DNS, DHCP, SSH, firewall config, troubleshooting |
+| **Bash & Shell Scripting** | ███████████░ Advanced | Automation scripts, cron jobs, log analysis, backup pipelines |
+| **AWS Cloud** | █████████░░░ Proficient | EC2, S3, CI/CD via GitHub Actions, infrastructure deployment |
+| **Security & Hardening** | ██████████░░ Advanced | fail2ban, firewall rules, access controls, antivirus management |
+| **Database Administration** | █████████░░░ Proficient | MySQL, replication (Master-Slave, Master-Master), query optimisation |
+| **System Monitoring** | ██████████░░ Advanced | Zabbix, Linux diagnostic tools, performance bottleneck resolution |
+| **Web Services** | ████████░░░░ Proficient | Apache, Nginx — deployment, configuration, service management |
 
 </div>
 
@@ -104,24 +103,24 @@ Outside of core engineering, I actively contribute to open source, mentor junior
 ## ◈ Featured Projects
 
 <details>
-<summary><b>◦ NeuralGate — Real-Time LLM Inference Gateway</b></summary>
+<summary><b>◦ Automated Server Maintenance System</b></summary>
 
 <br/>
 
-An enterprise-grade inference gateway designed to route, load-balance, and rate-limit requests across heterogeneous LLM backends (OpenAI, Anthropic, self-hosted Llama, Mistral) with sub-5ms routing overhead. Built for multi-tenant SaaS environments where cost attribution, quota enforcement, and latency SLAs are hard requirements.
+A production-grade Bash automation suite designed to eliminate repetitive manual server maintenance tasks — covering backups, system updates, log rotation, and user account provisioning. Built with reliability and scheduling precision in mind for Linux production environments.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Go, gRPC, Redis, PostgreSQL, Prometheus, Grafana, Kubernetes |
-| **Scale** | 2M+ requests/day across 14 LLM endpoints, 99.97% uptime |
-| **Performance** | p99 routing latency < 4ms, token-budget enforcement at edge |
-| **Security** | mTLS between services, API key scoping, PII redaction middleware |
-| **Impact** | Reduced LLM API costs by 38% via intelligent caching and model routing |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-NeuralGate-6D28D9?style=flat-square&logo=github)](https://github.com/arjunkrishnamurthy/neuralgate) |
+| **Stack** | Bash, Shell Scripting, Cron Jobs, Linux (Ubuntu / CentOS) |
+| **Scale** | Deployed across multi-server environments with scheduled daily/weekly tasks |
+| **Performance** | Reduced manual maintenance time by **60%**; operational errors down by **40%** |
+| **Security** | Automated user account lifecycle management with access control enforcement |
+| **Impact** | Freed engineering time for proactive infrastructure work vs. reactive maintenance |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-automated--server--maintenance-6D28D9?style=flat-square&logo=github)](https://github.com/Akash09042004) |
 
-NeuralGate implements a plugin-based middleware chain that allows teams to inject custom pre/post processing logic — semantic caching, prompt injection detection, response filtering — without modifying core routing logic. The system uses a consistent-hashing ring for stateful session affinity and a leaky-bucket algorithm for per-tenant rate limiting.
+The system uses a modular script architecture where each maintenance function (backup, log cleanup, update, provisioning) operates as an independent, idempotent unit invocable standalone or as part of the master cron-orchestrated pipeline. Failure handling and logging are built into every module for audit traceability.
 
 <br/>
 
@@ -130,24 +129,24 @@ NeuralGate implements a plugin-based middleware chain that allows teams to injec
 ---
 
 <details>
-<summary><b>◦ VectorFlow — Distributed Vector Database Indexing Engine</b></summary>
+<summary><b>◦ Real-Time Patient Monitoring System</b></summary>
 
 <br/>
 
-A high-throughput batch and streaming pipeline for ingesting, embedding, and indexing large-scale document corpora into vector databases (Pinecone, Weaviate, Qdrant, pgvector). Designed for teams that need to keep their retrieval index fresh at continuous ingestion rates without full re-indexing.
+A cloud-hosted real-time patient data pipeline built on AWS infrastructure, designed for high-availability medical monitoring. Combines a Python-powered backend data pipeline with a React frontend, deployed on EC2 with automated CI/CD via GitHub Actions.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python, FastAPI, Kafka, Spark Structured Streaming, Airflow, Docker |
-| **Scale** | Processes 50M+ document chunks/day, supports 12 embedding model backends |
-| **Performance** | 10x throughput improvement vs. naive sequential indexing baseline |
-| **Security** | Secrets management via Vault, isolated tenant namespaces, audit logging |
-| **Impact** | Adopted by 200+ teams, 1.4k GitHub stars, featured in MLOps community newsletter |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-VectorFlow-6D28D9?style=flat-square&logo=github)](https://github.com/arjunkrishnamurthy/vectorflow) |
+| **Stack** | Python, React, AWS EC2, GitHub Actions, CI/CD |
+| **Scale** | Continuous real-time data ingestion with 99.9% system uptime target |
+| **Performance** | Backend architecture optimisation reduced system latency by **30%** |
+| **Security** | Cloud infrastructure hardening, IAM policy controls, secure data transit |
+| **Impact** | Demonstrates cloud-native deployment discipline in a life-critical domain |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-patient--monitoring--system-6D28D9?style=flat-square&logo=github)](https://github.com/Akash09042004) |
 
-VectorFlow abstracts over four distinct ingestion modes — batch file, S3 event-driven, Kafka stream, and webhook push — presenting a unified declarative pipeline configuration. Incremental delta indexing ensures staleness windows under 90 seconds for hot-path content, while cold-tier documents are batch-reconciled nightly.
+Infrastructure is provisioned on AWS EC2 with automated deployment pipelines triggered on every push to main. The backend Python pipeline handles real-time data ingestion and normalisation, while the React frontend provides live dashboarding. GitHub Actions drives zero-touch deployments, ensuring consistent environment parity between staging and production.
 
 <br/>
 
@@ -156,50 +155,24 @@ VectorFlow abstracts over four distinct ingestion modes — batch file, S3 event
 ---
 
 <details>
-<summary><b>◦ Meridian — Full-Stack AI Product Analytics Platform</b></summary>
+<summary><b>◦ Student Database Management System</b></summary>
 
 <br/>
 
-A self-hosted product analytics platform with built-in ML-powered anomaly detection, cohort analysis, funnel intelligence, and natural language querying. Competes with Amplitude and Mixpanel for teams that need on-premise data residency and AI-augmented insight generation.
-
-<br/>
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Next.js 14, TypeScript, FastAPI, ClickHouse, Redis, dbt, Terraform |
-| **Scale** | Handles 500M events/month, sub-second query response on 10B+ row tables |
-| **Performance** | ClickHouse columnar storage + materialized views for real-time aggregation |
-| **Security** | SOC 2 Type II aligned, row-level tenant isolation, field-level encryption |
-| **Impact** | Deployed at 3 Series B companies, 40% reduction in time-to-insight for PM teams |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Meridian-6D28D9?style=flat-square&logo=github)](https://github.com/arjunkrishnamurthy/meridian) |
-
-Meridian's NL-to-SQL layer uses a fine-tuned code model with schema-aware context injection, enabling non-technical stakeholders to author complex analytical queries in plain English. The anomaly detection layer combines Prophet-based time-series forecasting with an isolation forest ensemble for multi-dimensional root-cause signals.
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary><b>◦ Forge — Developer-First Internal Tooling Framework</b></summary>
-
-<br/>
-
-An opinionated internal tooling framework that lets platform and developer experience teams ship admin panels, approval workflows, CRUD dashboards, and internal automation UIs in hours rather than weeks — without sacrificing customizability or security posture.
+A fully Linux command-line operated relational database system for managing student academic records at scale. Built with a focus on query performance, data integrity, security, and operational simplicity — entirely without GUI tooling.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Prisma, tRPC |
-| **Scale** | Used by 8 engineering orgs, 150+ internal tools deployed in production |
-| **Performance** | First contentful paint < 800ms, Lighthouse score > 96 across all generated UIs |
-| **Security** | RBAC built-in, SSO/SAML integration, full audit trail on all mutations |
-| **Impact** | Saved an estimated 2,400 engineering hours in its first 6 months of adoption |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Forge-6D28D9?style=flat-square&logo=github)](https://github.com/arjunkrishnamurthy/forge) |
+| **Stack** | MySQL, Linux CLI, Stored Procedures, Views, Indexing |
+| **Scale** | Designed for institutional-scale student record management |
+| **Performance** | Indexing strategies and EXPLAIN-driven query optimisation for fast response times |
+| **Security** | Role-based user privilege management; strict access control per data domain |
+| **Impact** | Demonstrates production-grade database engineering discipline on Linux |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-student--db--management-6D28D9?style=flat-square&logo=github)](https://github.com/Akash09042004) |
 
-Forge's component library is built on a declarative schema-first model — engineers define their data model and access rules in a typed configuration file, and Forge generates a fully functional UI with server-side pagination, inline editing, bulk operations, and audit logging out of the box.
+The schema was designed normalised to 3NF. Stored procedures and views abstract complex joins from application-layer queries. Slow query identification via `EXPLAIN` and Slow Query Log drove targeted index additions that brought worst-case query times down significantly. All operations — schema creation, user management, backup via `mysqldump` — run from the Linux terminal.
 
 <br/>
 
@@ -211,61 +184,44 @@ Forge's component library is built on a declarative schema-first model — engin
 
 <br/>
 
-**Staff Software Engineer — AI Platform**
-`Swiggy` · Full-time · `Jan 2023 – Present` · Bangalore, India
+**IT Support Engineer — Infrastructure & Systems**
+`Karpagam Hospital, Coimbatore` · Full-time · `Feb 2026 – Present` · Tamil Nadu, India
 
-Leading the AI Platform team responsible for the ML serving infrastructure powering search ranking, ETA prediction, and personalized recommendations across Swiggy's core consumer product. Serve 15M+ daily active users.
+Managing end-to-end IT infrastructure for a live hospital production environment — one of the highest-stakes infrastructure settings where system availability directly impacts patient care.
 
-- Designed and shipped a unified model serving platform (custom Triton deployment) reducing model deployment time from 3 days to under 90 minutes
-- Led migration of recommendation serving stack from batch-compute to real-time feature store (Redis + Feast), reducing recommendation staleness from 24h to under 3 minutes
-- Established MLOps standards across 6 ML teams: shadow deployments, automated champion/challenger testing, model rollback policies
-- Mentored 4 senior engineers; drove technical roadmap for 2024 AI Platform initiatives
-- Reduced ML infrastructure cloud spend by $480K annually through spot instance orchestration and model quantisation strategies
+- Maintain **150+ workstations, printers, and network devices** across all hospital departments with zero tolerance for unplanned outages
+- Resolve **150+ hardware, software, and network issues monthly**, sustaining **99.9% uptime** for all critical hospital services
+- Configure and maintain LAN connectivity, firewall rules, shared folders, and network resources; achieved zero unplanned network outages since joining
+- Administer user accounts, access controls, and password policies for all hospital staff across Linux and Windows systems
+- Monitor system performance using Linux diagnostic tools; coordinate vendor escalation for hardware failures, reducing average resolution time by **20%**
+- Manage software deployment, OS patching, and antivirus updates across all endpoints; maintain full IT asset and incident documentation for regulatory audit compliance
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-7C3AED?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-A855F7?style=flat-square&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-6D28D9?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7C3AED?style=flat-square&logo=redis&logoColor=white)
-
-<br/>
-
----
-
-**Senior Software Engineer — Backend Platform**
-`Razorpay` · Full-time · `Jun 2020 – Dec 2022` · Bangalore, India
-
-Core contributor to Razorpay's payments platform backend, focusing on reliability engineering, API gateway performance, and developer-facing SDK infrastructure. Worked across the critical path serving ₹5L Cr+ in annual transaction volume.
-
-- Architected idempotency and retry framework for payment APIs, reducing duplicate charge incidents by 99.3%
-- Rebuilt webhook delivery system with at-least-once guarantees, exponential backoff, and per-merchant SLA dashboards
-- Led engineering for the Razorpay SDK 3.0 rewrite across Android, iOS, and Web, cutting integration time for merchants by 60%
-- Drove incident response process improvements that reduced MTTR from 47 minutes to under 12 minutes across P0 incidents
-
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-A855F7?style=flat-square&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-6D28D9?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6D28D9?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-7C3AED?style=flat-square&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/LAN%2FWAN%20Networking-8B5CF6?style=flat-square&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-A855F7?style=flat-square&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall%20Config-6D28D9?style=flat-square&logoColor=white)
 
 <br/>
 
 ---
 
-**Software Engineer — Full Stack**
-`Cure.fit (now Cult.fit)` · Full-time · `Jul 2018 – May 2020` · Bangalore, India
+**Linux System Administrator Intern**
+`Iridium Cloud System Pvt. Ltd, Kerala` · Internship · `Sep 2025 – Jan 2026` · Kerala, India
 
-Early engineering hire on the consumer product team. Contributed across the full stack — React web, React Native, and Python/Node microservices — during the company's 0-to-1 growth phase.
+Gained deep hands-on Linux system administration experience in a cloud systems company, managing Ubuntu and CentOS production servers and delivering measurable security and automation improvements.
 
-- Built the live fitness class scheduling and slot booking system, now handling 800K+ bookings per month
-- Developed real-time class occupancy tracking dashboard used by operations teams across 200+ centres
-- Implemented push notification engine with personalised content targeting, improving DAU by 22%
+- Administered Ubuntu and CentOS servers: user management, file permissions, system configuration for production environments
+- Configured firewall rules and fail2ban policies, reducing unauthorized access attempts by **25%**
+- Automated backup, log cleanup, and system update tasks using Bash scripts and cron jobs, reducing manual maintenance effort by **30%**
+- Monitored CPU, memory, and disk usage proactively; identified and resolved performance bottlenecks, reducing downtime by **15%**
+- Performed full service lifecycle management and applied system patches via `apt` / `yum`; maintained troubleshooting runbooks for team knowledge continuity
 
-![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-A855F7?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-6D28D9?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-7C3AED?style=flat-square&logo=centos&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-8B5CF6?style=flat-square&logo=gnubash&logoColor=white)
+![fail2ban](https://img.shields.io/badge/fail2ban-A855F7?style=flat-square&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron%20Jobs-6D28D9?style=flat-square&logoColor=white)
 
 ---
 
@@ -275,14 +231,12 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 | Recognition | Details |
 |:---:|:---|
-| 🏆 **Top 100 GitHub India** | Ranked in top 100 Indian developers by follower count & repository impact (2024) |
-| 🥇 **Smart India Hackathon — National Winner** | 1st place among 10,000+ teams, built ML-powered disaster response routing system |
-| 📝 **Published Author** | Technical articles on LLM infrastructure with 180K+ combined reads on Medium & Dev.to |
-| 🎙️ **Conference Speaker** | Spoke at PyConf India 2023 on "Production LLM Systems at Scale" |
-| 🌟 **Open Source Impact** | 4 projects with 500+ stars; active maintainer of 2 CNCF ecosystem tools |
-| 💡 **Patent Pending** | Co-inventor on patent for adaptive model routing in multi-tenant inference systems |
-| 🎓 **IIT Gold Medalist** | Department rank 1, B.Tech Computer Science, IIT Bombay, Class of 2018 |
-| 🤝 **Mentor — 200+ Engineers** | Mentored across ADPList, IIT alumni network, and Swiggy internal mentorship programme |
+| 🏥 **Production Infrastructure Ownership** | Sole IT engineer maintaining 150+ node hospital network with 99.9% uptime SLA |
+| 🔒 **Security Impact** | Reduced unauthorized server access attempts by 25% via firewall & fail2ban hardening |
+| ⚡ **Automation Impact** | Cut manual server maintenance time by 60% through Bash scripting and cron automation |
+| 📉 **Downtime Reduction** | Proactive Linux monitoring reduced infrastructure downtime by 15% at Iridium Cloud |
+| 🚀 **Resolution Speed** | Vendor escalation process improvements reduced hardware failure resolution time by 20% |
+| ☁️ **Cloud Deployment** | Deployed and maintained AWS EC2 infrastructure with CI/CD achieving 99.9% uptime |
 
 </div>
 
@@ -292,33 +246,33 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 <div align="center">
 
-**Amazon Web Services**
+**Linux & Systems**
 
-[![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Linux Administration](https://img.shields.io/badge/Training-Linux%20Administration-6D28D9?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Akash09042004)
 
 <br/>
 
-**Google Cloud Platform**
+**Cloud**
 
-[![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
-[![GCP Professional ML Engineer](https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
-
-<br/>
-
-**NPTEL — IIT**
-
-[![NPTEL Deep Learning](https://img.shields.io/badge/NPTEL-Deep%20Learning%20%E2%80%94%20Elite%20%2B%20Gold-6D28D9?style=for-the-badge&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL Algorithms](https://img.shields.io/badge/NPTEL-Design%20%26%20Analysis%20of%20Algorithms%20%E2%80%94%20Elite-7C3AED?style=for-the-badge&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud%20Computing%20%E2%80%94%20Elite-8B5CF6?style=for-the-badge&logoColor=white)](https://nptel.ac.in/)
+[![AWS Cloud](https://img.shields.io/badge/Training-AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Akash09042004)
 
 <br/>
 
-**Cisco**
+**DevOps**
 
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
-[![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
+[![DevOps Fundamentals](https://img.shields.io/badge/Training-DevOps%20Fundamentals-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Akash09042004)
+
+<br/>
+
+**Networking**
+
+[![CCNA](https://img.shields.io/badge/Training-CCNA%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Akash09042004)
+
+<br/>
+
+**Programming**
+
+[![Python](https://img.shields.io/badge/Training-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Akash09042004)
 
 </div>
 
@@ -328,10 +282,9 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%201847%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arjunkrishnamurthy/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/arjunkrishnamurthy)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6%E2%98%85%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/arjunkrishnamurthy)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%202105%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arjunkrishnamurthy)
+[![GitHub](https://img.shields.io/badge/GitHub-Akash09042004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash09042004)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Linux%20Shell%20%7C%20SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
@@ -341,9 +294,9 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arjunkrishnamurthy&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=8B5CF6&text_color=C4B5FD&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Akash09042004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=8B5CF6&text_color=C4B5FD&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkrishnamurthy&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash09042004&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -353,7 +306,7 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arjunkrishnamurthy&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akash09042004&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -363,7 +316,7 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunkrishnamurthy&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Past%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash09042004&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Past%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -374,9 +327,9 @@ Early engineering hire on the consumer product team. Contributed across the full
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunkrishnamurthy/arjunkrishnamurthy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunkrishnamurthy/arjunkrishnamurthy/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/arjunkrishnamurthy/arjunkrishnamurthy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash09042004/Akash09042004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash09042004/Akash09042004/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Akash09042004/Akash09042004/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -387,25 +340,26 @@ Early engineering hire on the consumer product team. Contributed across the full
 
 ```yaml
 learning:
-  - "FSDP & tensor parallelism for multi-node LLM training at scale"
-  - "Rust systems programming for high-performance ML data pipelines"
-  - "Formal verification methods for distributed protocol correctness"
+  - "AWS Solutions Architect Associate — deep dive on VPC, IAM, RDS, CloudWatch"
+  - "Terraform & Infrastructure as Code for repeatable cloud provisioning"
+  - "Docker & Kubernetes for containerised workload management"
+  - "CI/CD pipeline engineering with GitHub Actions and Jenkins"
 
 building:
-  - "Open-source LLM observability toolkit (tracing, evaluation, drift detection)"
-  - "Multi-agent orchestration framework for long-horizon planning tasks"
-  - "Latency-optimised RAG pipeline with hybrid sparse + dense retrieval"
+  - "Personal homelab: multi-node Linux cluster with Zabbix monitoring stack"
+  - "Bash automation toolkit for cloud server bootstrap and hardening"
+  - "Self-hosted cloud storage on AWS S3 with lifecycle and cost controls"
 
 exploring:
-  - "State Space Models (Mamba) as alternatives to attention-based architectures"
-  - "Speculative decoding and continuous batching for inference throughput"
-  - "Mixture-of-Experts routing strategies for cost-efficient inference"
+  - "Site Reliability Engineering principles — SLOs, error budgets, toil reduction"
+  - "Ansible for configuration management at scale"
+  - "Linux kernel tuning and performance engineering for high-load systems"
 
 open_to:
-  - "Staff / Principal Engineer roles in AI-native companies"
-  - "Technical advisory for Series A–C AI product startups"
-  - "Co-authoring papers on production ML systems"
-  - "Open source collaboration on LLM infrastructure tooling"
+  - "Cloud Engineer / AWS Cloud Engineer roles (Entry to Mid level)"
+  - "DevOps Engineer / Infrastructure Engineer positions"
+  - "Linux System Administrator (Senior) roles"
+  - "Remote / hybrid opportunities across India"
 ```
 
 ---
@@ -414,13 +368,11 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-arjun%40dev.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun@dev.com)
+[![Gmail](https://img.shields.io/badge/Gmail-akash.n.officialid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.n.officialid@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arjunkrishnamurthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunkrishnamurthy)
+[![GitHub](https://img.shields.io/badge/GitHub-Akash09042004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash09042004)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-arjunkrishnamurthy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunkrishnamurthy)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunkrishnamurthy.dev-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunkrishnamurthy.dev)
+[![Phone](https://img.shields.io/badge/Call%20%2F%20WhatsApp-%2B91%209342208903-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919342208903)
 
 </div>
 
@@ -428,7 +380,7 @@ open_to:
 
 <div align="center">
 
-*"The best engineers I know don't write the most code — they write the least code necessary to solve the right problem."*
+*"Reliable infrastructure is not built by fixing what breaks — it is built by automating away what could break."*
 
 <br/>
 
